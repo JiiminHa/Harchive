@@ -2,7 +2,7 @@
 
 좋아하는 도구들과 기술을 배우는 걸 즐깁니다 😄
 
-## 언어
+## ✨ 언어
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
