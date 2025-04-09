@@ -13,9 +13,7 @@
 ## ✍ 최근 블로그 글
 
 <!-- BLOG-START -->
-
-자동으로 여기에 글이 들어갑니다
-
+<ul><li><a href='https://jiminha.tistory.com/entry/%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%A0-%EA%B2%83%EC%9D%B8%EA%B0%80' target='_blank'>어떠한 개발자가 될 것인가</a></li></ul>
 <!-- BLOG-END -->
 
 ## 📫 연락처
