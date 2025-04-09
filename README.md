@@ -10,7 +10,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
-## ✍ 최근 블로그 글
+## 📄 최근 블로그 글
 
 <!-- BLOG-START -->
 <ul><li><a href='https://jiminha.tistory.com/entry/%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%A0-%EA%B2%83%EC%9D%B8%EA%B0%80' target='_blank'>어떠한 개발자가 될 것인가</a></li></ul>
