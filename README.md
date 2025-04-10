@@ -13,7 +13,7 @@
 ## 📄 최근 블로그 글
 
 <!-- BLOG-START -->
-<ul><li><a href='https://jiminha.tistory.com/entry/%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%A0-%EA%B2%83%EC%9D%B8%EA%B0%80' target='_blank'>어떠한 개발자가 될 것인가</a></li></ul>
+<ul><li><a href='https://jiminha.tistory.com/entry/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%B2%98%EC%9D%8C-%ED%95%B4%EB%B3%B4%EB%A9%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%A4%91%EC%9A%94%EC%84%B1%EC%9D%84-%EB%8A%90%EB%81%BC%EA%B8%B0%EA%B9%8C%EC%A7%80' target='_blank'>코드 리뷰를 처음 해보며, 그리고 그 중요성을 느끼기까지</a></li><li><a href='https://jiminha.tistory.com/entry/%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%A0-%EA%B2%83%EC%9D%B8%EA%B0%80' target='_blank'>어떠한 개발자가 될 것인가</a></li></ul>
 <!-- BLOG-END -->
 
 ## 📫 연락처
